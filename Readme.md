@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/github/issues/jhaabhijeet864/numpy_for_machine_learning" alt="Issues" />
   <img src="https://img.shields.io/badge/Phase-Gamefied-blue" alt="Phase" />
   <!-- Example CI badge (add the workflow later to make this valid) -->
-  <img src="https://github.com/jhaabhijeet864/numpy_for_machine_learning/workflows/CI/badge.svg" alt="CI Status" />
   <!-- Binder / Launch badge (configure binder if wanted) -->
   <a href="https://mybinder.org/v2/gh/jhaabhijeet864/numpy_for_machine_learning/HEAD">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch in Binder" />
