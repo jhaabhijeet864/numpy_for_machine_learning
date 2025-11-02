@@ -9,7 +9,7 @@ Table of Contents
 - Overview
 - Quickstart
 - Repository structure
-- What you'll learn
+- What you'll learn    
 - Examples
 - Installation
 - Run the notebooks
