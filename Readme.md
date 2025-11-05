@@ -5,14 +5,6 @@
   <img src="assets/hero.gif" alt="NumPy Adventure Hero" width="800" />
 </p>
 
-<p align="center">
-  <a href="#how-to-play">▶️ Play</a> •
-  <a href="#levels--quests">🎯 Levels & Quests</a> •
-  <a href="#badges--achievements">🏅 Badges</a> •
-  <a href="#quickstart">⚡ Quickstart</a> •
-  <a href="#contributing">🤝 Contribute</a>
-</p>
-
 ---
 
 <!-- Badges row -->
@@ -237,10 +229,3 @@ Thanks to coach @chaicode and the NumPy community for inspiration.
 - v0.1 — Initial learning-focused collection (Phase-1 & Phase-2 quests)
 - v0.2 — Gamified README with badges, GIF support, CI example
 
----
-
-If you'd like, I can:
-- generate a minimal `assets/hero.gif` sample animation and a `progress.gif` (you'll need to approve and I can provide guidance on size/format), or
-- create the `.github/workflows/ci.yml` file in the repo for you so the CI badge becomes active.
-
-Happy questing! 🧭
